@@ -1,2 +1,2 @@
-# Data-Analysis-Dashboard
-This repository contains an interactive Power BI dashboard designed to analyze and visualize key business metrics. The dashboard provides meaningful insights through clean visuals, filter options, and dynamic reports.
+This repository contains an interactive Power BI dashboard that transforms raw data into meaningful insights.
+The dashboard is designed to help users explore key business metrics and make data-driven decisions effectively.
